@@ -1,1 +1,27 @@
 [2024-05-05 17:30:31,564: INFO: main: Welcom to our custom log]
+[2024-05-05 22:32:50,453: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-05 22:32:50,454: ERROR: main: [Errno 2] No such file or directory: '..\\config\\config.yaml']
+Traceback (most recent call last):
+  File "main.py", line 8, in <module>
+    data_ingestion.main()
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\pipeline\stage_01_data_ingestion.py", line 13, in main
+    config = ConfigurationManager()
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\config\configuration.py", line 12, in __init__
+    self.config = read_yaml(config_filepath)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\ensure\main.py", line 849, in __call__
+    return_val = self.f(*args, **kwargs)
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\utils\common.py", line 36, in read_yaml
+    raise e
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\utils\common.py", line 29, in read_yaml
+    with open(path_to_yaml) as yaml_file:
+FileNotFoundError: [Errno 2] No such file or directory: '..\\config\\config.yaml'
+[2024-05-05 22:33:15,994: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-05 22:33:15,996: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-05 22:33:15,997: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-05 22:33:15,997: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-05 22:33:15,998: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-05 22:33:15,998: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-05 22:33:29,961: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-05 22:33:30,576: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]

@@ -2,19 +2,16 @@
 
 ## Workflows
 
-1. Introduction and Github Repository Setup
-2. Project Template Creation
-3. Project Setup and requirements installation
-4. Logging, Utils and Exception Module
-5. Project Workflows
-6. All Components Notebook Experiment
-7. All components Modular Code implementation
-8. Training Pipeline
-9. MLflow (MLOps Tool) - For experiments tracking and model registration
-10. DVC (MLOps Tool) - For Pipeline Tracking and Implementation
-11. Prediction Pipeline and User App creation
-12. Docker
-13. FInal CI/CD Deployment on AWS
+1. Update config.yaml
+2. Update secrets.yaml [Optional]
+3. Update params.yaml
+4. Update the entity
+5. Update the configuration manager in src config
+6. Update the components
+7. Update the pipeline
+8. Update the main.py
+9. Update the dvc.yaml
+10. app.py
 
 ## How to run?
 
