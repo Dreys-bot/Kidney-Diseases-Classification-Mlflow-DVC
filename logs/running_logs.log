@@ -133,3 +133,102 @@ x==========x]
 [2024-05-06 07:00:32,040: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
 
 x==========x]
+[2024-05-06 08:27:20,781: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-06 08:27:20,787: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 08:27:20,794: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 08:27:20,794: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 08:27:20,795: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 08:27:20,796: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-06 08:27:33,953: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-06 08:27:34,449: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-06 08:27:34,450: INFO: main: *******************]
+[2024-05-06 08:27:34,451: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-05-06 08:27:34,454: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 08:27:34,457: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 08:27:34,458: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 08:27:34,459: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 08:27:34,902: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-05-06 08:27:35,198: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-05-06 08:27:35,199: INFO: main: *******************]
+[2024-05-06 08:27:35,199: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-05-06 08:27:35,202: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 08:27:35,204: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 08:27:35,205: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 08:27:35,206: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 08:27:35,207: ERROR: main: __init__() got an unexpected keyword argument 'params_image_size']
+Traceback (most recent call last):
+  File "main.py", line 35, in <module>
+    model_trainer.main()
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\pipeline\stage_03_model_training.py", line 17, in main
+    training_config = config.get_training_config()
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\config\configuration.py", line 62, in get_training_config
+    training_config = TrainingConfig(
+TypeError: __init__() got an unexpected keyword argument 'params_image_size'
+[2024-05-06 08:28:55,525: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-06 08:28:55,528: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 08:28:55,530: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 08:28:55,531: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 08:28:55,533: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 08:28:55,534: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-06 08:29:08,152: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-06 08:29:08,661: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-06 08:29:08,662: INFO: main: *******************]
+[2024-05-06 08:29:08,662: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-05-06 08:29:08,665: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 08:29:08,668: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 08:29:08,669: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 08:29:08,669: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 08:29:09,131: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-05-06 08:29:09,401: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-05-06 08:29:09,402: INFO: main: *******************]
+[2024-05-06 08:29:09,402: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-05-06 08:29:09,405: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 08:29:09,408: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 08:29:09,409: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 08:29:09,410: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 08:29:45,906: ERROR: main: 'Training' object has no attribute 'save_model']
+Traceback (most recent call last):
+  File "main.py", line 35, in <module>
+    model_trainer.main()
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\pipeline\stage_03_model_training.py", line 21, in main
+    training.train()
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\components\model_training.py", line 82, in train
+    self.save_model(
+AttributeError: 'Training' object has no attribute 'save_model'
+[2024-05-06 08:31:56,322: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-06 08:31:56,325: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 08:31:56,328: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 08:31:56,329: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 08:31:56,330: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 08:31:56,331: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-06 08:32:07,285: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-06 08:32:07,802: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-06 08:32:07,803: INFO: main: *******************]
+[2024-05-06 08:32:07,803: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-05-06 08:32:07,808: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 08:32:07,811: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 08:32:07,812: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 08:32:07,812: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 08:32:08,247: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-05-06 08:32:08,517: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-05-06 08:32:08,518: INFO: main: *******************]
+[2024-05-06 08:32:08,518: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-05-06 08:32:08,522: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 08:32:08,526: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 08:32:08,527: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 08:32:08,527: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 08:32:43,139: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
