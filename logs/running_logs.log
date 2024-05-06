@@ -25,3 +25,111 @@ FileNotFoundError: [Errno 2] No such file or directory: '..\\config\\config.yaml
 [2024-05-05 22:33:30,576: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2024-05-06 06:57:56,615: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-06 06:57:56,655: ERROR: main: [Errno 2] No such file or directory: '..\\config\\config.yaml']
+Traceback (most recent call last):
+  File "main.py", line 10, in <module>
+    data_ingestion.main()
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\pipeline\stage_01_data_ingestion.py", line 13, in main
+    config = ConfigurationManager()
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\config\configuration.py", line 13, in __init__
+    self.config = read_yaml(config_filepath)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\ensure\main.py", line 849, in __call__
+    return_val = self.f(*args, **kwargs)
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\utils\common.py", line 36, in read_yaml
+    raise e
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\utils\common.py", line 29, in read_yaml
+    with open(path_to_yaml) as yaml_file:
+FileNotFoundError: [Errno 2] No such file or directory: '..\\config\\config.yaml'
+[2024-05-06 06:58:50,932: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-06 06:58:50,937: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 06:58:50,943: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 06:58:50,946: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 06:58:50,947: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 06:58:50,948: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-06 06:59:04,195: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-06 06:59:05,454: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-06 06:59:05,455: INFO: main: *******************]
+[2024-05-06 06:59:05,455: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-05-06 06:59:05,461: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 06:59:05,467: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 06:59:05,468: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 06:59:05,511: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 06:59:05,512: ERROR: main: "'ConfigBox' object has no attribute 'image_size'"]
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'IMAGE_SIZE'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'IMAGE_SIZE'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'IMAGE_SIZE'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\config_box.py", line 28, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'IMAGE_SIZE'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'image_size'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'image_size'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'image_size'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "main.py", line 23, in <module>
+    prepare_base_model.main()
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\pipeline\stage_02_prepare_base_model.py", line 15, in main
+    prepare_base_model_config = config.get_prepare_base_model_config()
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\config\configuration.py", line 43, in get_prepare_base_model_config
+    params_image_size=self.params.IMAGE_SIZE,
+  File "box\config_box.py", line 30, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'image_size'"
+[2024-05-06 07:00:00,961: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-06 07:00:00,967: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 07:00:00,974: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 07:00:00,975: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 07:00:00,978: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 07:00:00,979: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-06 07:00:15,492: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-06 07:00:16,603: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-06 07:00:16,605: INFO: main: *******************]
+[2024-05-06 07:00:16,606: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-05-06 07:00:16,611: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 07:00:16,616: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 07:00:16,616: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 07:00:16,619: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 07:00:31,488: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-05-06 07:00:32,040: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
