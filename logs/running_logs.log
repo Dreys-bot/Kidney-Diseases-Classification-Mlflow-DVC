@@ -1030,3 +1030,11 @@ Traceback (most recent call last):
     prediction == 'Tumor'
 UnboundLocalError: local variable 'prediction' referenced before assignment
 [2024-05-09 18:34:38,605: INFO: _internal: 127.0.0.1 - - [09/May/2024 18:34:38] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]
+[2024-05-09 18:36:13,172: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.194:8080]
+[2024-05-09 18:36:13,172: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-05-09 18:36:18,621: INFO: _internal: 127.0.0.1 - - [09/May/2024 18:36:18] "GET / HTTP/1.1" 200 -]
+[2024-05-09 18:36:26,598: INFO: _internal: 127.0.0.1 - - [09/May/2024 18:36:26] "POST /predict HTTP/1.1" 200 -]
+[2024-05-09 18:36:39,883: INFO: _internal: 127.0.0.1 - - [09/May/2024 18:36:39] "POST /predict HTTP/1.1" 200 -]
