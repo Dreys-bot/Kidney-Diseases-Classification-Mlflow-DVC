@@ -962,3 +962,71 @@ x==========x]
 [2024-05-09 17:44:38,513: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage completed <<<<<<
 
 x==========x]
+[2024-05-09 18:27:20,076: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.194:8080]
+[2024-05-09 18:27:20,078: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-05-09 18:27:28,168: INFO: _internal: 192.168.1.194 - - [09/May/2024 18:27:28] "GET / HTTP/1.1" 200 -]
+[2024-05-09 18:28:28,720: INFO: _internal: 192.168.1.194 - - [09/May/2024 18:28:28] "[33mPOST /predict HTTP/1.1[0m" 404 -]
+[2024-05-09 18:30:43,523: INFO: _internal: 192.168.1.194 - - [09/May/2024 18:30:43] "GET / HTTP/1.1" 200 -]
+[2024-05-09 18:31:25,059: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.194:8080]
+[2024-05-09 18:31:25,060: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-05-09 18:31:31,392: INFO: _internal: 127.0.0.1 - - [09/May/2024 18:31:31] "GET / HTTP/1.1" 200 -]
+[2024-05-09 18:31:38,632: ERROR: app: Exception on /predict [POST]]
+Traceback (most recent call last):
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\flask_cors\extension.py", line 178, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\flask_cors\decorator.py", line 130, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "app.py", line 43, in predictRoute
+    decodeImage(image, clApp.filename)
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\utils\common.py", line 124, in decodeImage
+    f.clode()
+AttributeError: '_io.BufferedWriter' object has no attribute 'clode'
+[2024-05-09 18:31:38,636: INFO: _internal: 127.0.0.1 - - [09/May/2024 18:31:38] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]
+[2024-05-09 18:33:12,819: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.194:8080]
+[2024-05-09 18:33:12,820: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-05-09 18:33:17,156: INFO: _internal: 127.0.0.1 - - [09/May/2024 18:33:17] "GET / HTTP/1.1" 200 -]
+[2024-05-09 18:33:25,086: INFO: _internal: 127.0.0.1 - - [09/May/2024 18:33:25] "POST /predict HTTP/1.1" 200 -]
+[2024-05-09 18:34:01,203: INFO: _internal: 127.0.0.1 - - [09/May/2024 18:34:01] "POST /predict HTTP/1.1" 200 -]
+[2024-05-09 18:34:25,110: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.194:8080]
+[2024-05-09 18:34:25,111: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-05-09 18:34:30,408: INFO: _internal: 127.0.0.1 - - [09/May/2024 18:34:30] "GET / HTTP/1.1" 200 -]
+[2024-05-09 18:34:38,600: ERROR: app: Exception on /predict [POST]]
+Traceback (most recent call last):
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\flask_cors\extension.py", line 178, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\flask_cors\decorator.py", line 130, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "app.py", line 44, in predictRoute
+    result = clApp.classifier.predict()
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\pipeline\prediction.py", line 23, in predict
+    prediction == 'Tumor'
+UnboundLocalError: local variable 'prediction' referenced before assignment
+[2024-05-09 18:34:38,605: INFO: _internal: 127.0.0.1 - - [09/May/2024 18:34:38] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]

@@ -121,7 +121,7 @@ def decodeImage(imgstring, filename):
     imgdata = base64.b64decode(imgstring)
     with open(filename, 'wb') as f:
         f.write(imgdata)
-        f.clode()
+        f.close()
 
 def encodeImageIntoBase64(croppedImagePath):
     with open(croppedImagePath, "rb") as f:
