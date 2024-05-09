@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/14151d37a52b4f25ad0bf47b9635eb43/artifacts
+deleted_time: 1715266082352
+end_time: 1715188331589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 14151d37a52b4f25ad0bf47b9635eb43
+run_name: languid-rook-383
+run_uuid: 14151d37a52b4f25ad0bf47b9635eb43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715188321376
+status: 4
+tags: []
+user_id: audre

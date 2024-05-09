@@ -232,3 +232,694 @@ x==========x]
 [2024-05-06 08:32:43,139: INFO: main: >>>>>> stage Training completed <<<<<<
 
 x==========x]
+[2024-05-06 13:12:16,213: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 13:12:16,229: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 13:12:16,229: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 13:12:37,770: INFO: common: json file saved at: scores.json]
+[2024-05-06 13:13:40,938: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 13:13:40,947: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 13:13:40,951: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 13:14:01,821: INFO: common: json file saved at: scores.json]
+[2024-05-06 13:17:48,534: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 13:17:48,534: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 13:17:48,542: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 13:18:09,890: INFO: common: json file saved at: scores.json]
+[2024-05-06 13:25:18,275: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 13:25:18,284: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 13:25:18,287: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 13:25:40,435: INFO: common: json file saved at: scores.json]
+[2024-05-06 13:27:14,993: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 13:27:15,001: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 13:27:15,001: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 13:27:35,634: INFO: common: json file saved at: scores.json]
+[2024-05-06 13:28:08,412: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 13:28:08,420: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 13:28:08,424: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 13:28:29,613: INFO: common: json file saved at: scores.json]
+[2024-05-06 13:31:28,187: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 13:31:28,195: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 13:31:28,195: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 13:31:51,121: INFO: common: json file saved at: scores.json]
+[2024-05-06 13:33:10,249: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 13:33:10,259: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 13:33:10,264: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 13:33:30,524: INFO: common: json file saved at: scores.json]
+[2024-05-06 13:37:37,193: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 13:37:37,201: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 13:37:37,201: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 13:37:58,055: INFO: common: json file saved at: scores.json]
+[2024-05-06 13:50:29,699: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 13:50:29,706: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 13:50:29,707: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 13:50:50,353: INFO: common: json file saved at: scores.json]
+[2024-05-06 14:47:42,892: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 14:47:42,919: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 14:47:42,919: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 14:48:04,981: INFO: common: json file saved at: scores.json]
+[2024-05-06 15:06:10,767: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 15:06:10,770: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 15:06:10,771: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 15:06:24,083: INFO: common: json file saved at: scores.json]
+[2024-05-06 15:08:33,895: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 15:08:33,900: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 15:08:33,902: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 15:08:47,061: INFO: common: json file saved at: scores.json]
+[2024-05-06 15:10:35,424: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 15:10:35,428: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 15:10:35,430: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 15:10:48,012: INFO: common: json file saved at: scores.json]
+[2024-05-06 15:11:41,798: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 15:11:41,802: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 15:11:41,804: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 15:11:55,088: INFO: common: json file saved at: scores.json]
+[2024-05-06 15:13:17,740: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 15:13:17,743: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 15:13:17,745: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 15:13:31,504: INFO: common: json file saved at: scores.json]
+[2024-05-06 15:15:30,588: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-06 15:15:30,593: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-06 15:15:30,594: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-06 15:15:43,416: INFO: common: json file saved at: scores.json]
+[2024-05-07 09:13:59,732: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-07 09:13:59,745: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-07 09:13:59,748: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-07 09:14:10,923: INFO: common: json file saved at: scores.json]
+[2024-05-07 10:57:04,439: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-07 10:57:04,443: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-07 10:57:04,446: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-07 10:57:04,446: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-07 10:57:04,447: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-07 10:57:04,447: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-07 10:57:17,326: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-07 10:57:17,760: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-07 10:57:17,761: INFO: main: *******************]
+[2024-05-07 10:57:17,761: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-05-07 10:57:17,764: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-07 10:57:17,766: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-07 10:57:17,767: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-07 10:57:17,768: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-07 10:57:18,226: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-05-07 10:57:18,505: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-05-07 10:57:18,506: INFO: main: *******************]
+[2024-05-07 10:57:18,506: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-05-07 10:57:18,509: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-07 10:57:18,512: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-07 10:57:18,513: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-07 10:57:18,514: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-07 10:57:54,379: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-05-07 11:00:35,930: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-07 11:00:35,935: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-07 11:00:35,936: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-07 11:00:47,214: INFO: common: json file saved at: scores.json]
+[2024-05-07 11:09:40,342: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-07 11:09:40,345: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-07 11:09:40,347: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-07 11:09:51,766: INFO: common: json file saved at: scores.json]
+[2024-05-07 11:14:19,749: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-07 11:14:19,752: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-07 11:14:19,754: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-07 11:14:31,830: INFO: common: json file saved at: scores.json]
+[2024-05-08 17:41:59,143: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-08 17:41:59,167: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-08 17:41:59,175: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 17:42:20,557: INFO: common: json file saved at: scores.json]
+[2024-05-08 18:03:52,588: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-08 18:03:52,599: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-08 18:03:52,602: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 18:04:03,756: INFO: common: json file saved at: scores.json]
+[2024-05-08 18:36:41,064: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-08 18:36:41,073: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-08 18:36:41,079: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-08 18:36:41,080: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 18:36:41,082: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 18:36:41,082: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-08 18:37:29,419: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-08 18:37:30,023: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-08 18:37:30,024: INFO: main: *******************]
+[2024-05-08 18:37:30,024: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-05-08 18:37:30,025: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-08 18:37:30,030: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-08 18:37:30,032: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 18:37:30,033: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 18:37:30,693: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-05-08 18:37:30,992: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-05-08 18:37:30,992: INFO: main: *******************]
+[2024-05-08 18:37:30,993: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-05-08 18:37:30,995: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-08 18:37:30,998: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-08 18:37:30,999: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 18:37:30,999: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 18:38:07,598: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-05-08 18:38:07,598: INFO: main: *******************]
+[2024-05-08 18:38:07,599: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-05-08 18:38:07,602: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-08 18:38:07,604: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-08 18:38:07,605: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 18:38:19,385: INFO: common: json file saved at: scores.json]
+[2024-05-08 18:38:19,386: INFO: common: json file saved at: scores.json]
+[2024-05-08 18:38:19,387: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-05-08 18:50:12,759: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-08 18:50:12,762: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-08 18:50:12,765: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-08 18:50:12,766: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 18:50:12,767: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 18:50:12,768: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-08 18:50:45,336: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-08 18:50:45,844: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-08 18:50:45,844: INFO: main: *******************]
+[2024-05-08 18:50:45,845: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-05-08 18:50:45,848: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-08 18:50:45,851: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-08 18:50:45,852: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 18:50:45,853: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 18:50:46,421: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-05-08 18:50:46,702: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-05-08 18:50:46,702: INFO: main: *******************]
+[2024-05-08 18:50:46,703: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-05-08 18:50:46,705: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-08 18:50:46,708: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-08 18:50:46,708: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 18:50:46,709: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 18:51:23,446: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-05-08 18:51:23,447: INFO: main: *******************]
+[2024-05-08 18:51:23,448: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-05-08 18:51:23,451: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-08 18:51:23,455: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-08 18:51:23,456: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 18:51:35,432: INFO: common: json file saved at: scores.json]
+[2024-05-08 18:51:35,432: INFO: common: json file saved at: scores.json]
+[2024-05-08 18:51:38,326: INFO: builder_impl: Assets written to: C:\Users\audre\AppData\Local\Temp\tmpyne4z9_b\model\data\model\assets]
+[2024-05-08 18:51:51,024: ERROR: main: The configured tracking uri scheme: 'file' is invalid for use with the proxy mlflow-artifact scheme. The allowed tracking schemes are: {'https', 'http'}]
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    model_evalution.main()
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\pipeline\stage_04_model_evaluation.py", line 20, in main
+    evaluation.log_into_mlflow()
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\components\model_evaluation_mlflow.py", line 74, in log_into_mlflow
+    mlflow.keras.log_model(self.model, "model")
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\tensorflow\__init__.py", line 213, in log_model
+    return Model.log(
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\models\model.py", line 617, in log
+    mlflow.tracking.fluent.log_artifacts(local_path, mlflow_model.artifact_path, run_id)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\tracking\fluent.py", line 1095, in log_artifacts
+    MlflowClient().log_artifacts(run_id, local_dir, artifact_path)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\tracking\client.py", line 1237, in log_artifacts
+    self._tracking_client.log_artifacts(run_id, local_dir, artifact_path)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 570, in log_artifacts
+    self._get_artifact_repo(run_id).log_artifacts(local_dir, artifact_path)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 536, in _get_artifact_repo
+    artifact_repo = get_artifact_repository(artifact_uri)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\store\artifact\artifact_repository_registry.py", line 124, in get_artifact_repository
+    return _artifact_repository_registry.get_artifact_repository(artifact_uri)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\store\artifact\artifact_repository_registry.py", line 77, in get_artifact_repository
+    return repository(artifact_uri)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\store\artifact\mlflow_artifacts_repo.py", line 45, in __init__
+    super().__init__(self.resolve_uri(artifact_uri, get_tracking_uri()))
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\store\artifact\mlflow_artifacts_repo.py", line 59, in resolve_uri
+    _validate_uri_scheme(track_parse.scheme)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\store\artifact\mlflow_artifacts_repo.py", line 35, in _validate_uri_scheme
+    raise MlflowException(
+mlflow.exceptions.MlflowException: The configured tracking uri scheme: 'file' is invalid for use with the proxy mlflow-artifact scheme. The allowed tracking schemes are: {'https', 'http'}
+[2024-05-08 19:01:27,428: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-08 19:01:27,431: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-08 19:01:27,435: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-08 19:01:27,435: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 19:01:27,436: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 19:01:27,437: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-08 19:02:04,992: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-08 19:02:05,513: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-08 19:02:05,513: INFO: main: *******************]
+[2024-05-08 19:02:05,513: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-05-08 19:02:05,517: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-08 19:02:05,520: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-08 19:02:05,521: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 19:02:05,522: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 19:02:06,087: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-05-08 19:02:06,386: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-05-08 19:02:06,387: INFO: main: *******************]
+[2024-05-08 19:02:06,387: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-05-08 19:02:06,390: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-08 19:02:06,392: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-08 19:02:06,393: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 19:02:06,393: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 19:02:41,857: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-05-08 19:02:41,857: INFO: main: *******************]
+[2024-05-08 19:02:41,858: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-05-08 19:02:41,860: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-08 19:02:41,863: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-08 19:02:41,864: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 19:02:53,274: INFO: common: json file saved at: scores.json]
+[2024-05-08 19:02:53,276: INFO: common: json file saved at: scores.json]
+[2024-05-08 19:02:56,747: INFO: builder_impl: Assets written to: C:\Users\audre\AppData\Local\Temp\tmpqi_q0z1e\model\data\model\assets]
+[2024-05-08 19:03:05,046: ERROR: main: The configured tracking uri scheme: 'file' is invalid for use with the proxy mlflow-artifact scheme. The allowed tracking schemes are: {'https', 'http'}]
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    model_evalution.main()
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\pipeline\stage_04_model_evaluation.py", line 20, in main
+    evaluation.log_into_mlflow()
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\components\model_evaluation_mlflow.py", line 66, in log_into_mlflow
+    mlflow.keras.log_model(self.model, "model", registered_model_name="VGG16Model")
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\tensorflow\__init__.py", line 213, in log_model
+    return Model.log(
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\models\model.py", line 617, in log
+    mlflow.tracking.fluent.log_artifacts(local_path, mlflow_model.artifact_path, run_id)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\tracking\fluent.py", line 1095, in log_artifacts
+    MlflowClient().log_artifacts(run_id, local_dir, artifact_path)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\tracking\client.py", line 1237, in log_artifacts
+    self._tracking_client.log_artifacts(run_id, local_dir, artifact_path)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 570, in log_artifacts
+    self._get_artifact_repo(run_id).log_artifacts(local_dir, artifact_path)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 536, in _get_artifact_repo
+    artifact_repo = get_artifact_repository(artifact_uri)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\store\artifact\artifact_repository_registry.py", line 124, in get_artifact_repository
+    return _artifact_repository_registry.get_artifact_repository(artifact_uri)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\store\artifact\artifact_repository_registry.py", line 77, in get_artifact_repository
+    return repository(artifact_uri)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\store\artifact\mlflow_artifacts_repo.py", line 45, in __init__
+    super().__init__(self.resolve_uri(artifact_uri, get_tracking_uri()))
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\store\artifact\mlflow_artifacts_repo.py", line 59, in resolve_uri
+    _validate_uri_scheme(track_parse.scheme)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\store\artifact\mlflow_artifacts_repo.py", line 35, in _validate_uri_scheme
+    raise MlflowException(
+mlflow.exceptions.MlflowException: The configured tracking uri scheme: 'file' is invalid for use with the proxy mlflow-artifact scheme. The allowed tracking schemes are: {'https', 'http'}
+[2024-05-08 19:10:38,224: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-08 19:10:38,227: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-08 19:10:38,230: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-08 19:10:38,230: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 19:10:38,232: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 19:10:38,232: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-08 19:11:10,114: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-08 19:11:10,645: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-08 19:11:10,646: INFO: main: *******************]
+[2024-05-08 19:11:10,647: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-05-08 19:11:10,651: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-08 19:11:10,654: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-08 19:11:10,655: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 19:11:10,656: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 19:11:11,240: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-05-08 19:11:11,546: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-05-08 19:11:11,546: INFO: main: *******************]
+[2024-05-08 19:11:11,547: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-05-08 19:11:11,549: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-08 19:11:11,552: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-08 19:11:11,552: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 19:11:11,553: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 19:11:48,937: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-05-08 19:11:48,938: INFO: main: *******************]
+[2024-05-08 19:11:48,939: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-05-08 19:11:48,942: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-08 19:11:48,944: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-08 19:11:48,946: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 19:12:00,628: INFO: common: json file saved at: scores.json]
+[2024-05-08 19:12:00,629: INFO: common: json file saved at: scores.json]
+[2024-05-08 19:12:03,524: INFO: builder_impl: Assets written to: C:\Users\audre\AppData\Local\Temp\tmpw942z1pe\model\data\model\assets]
+[2024-05-08 19:12:11,591: ERROR: main: The configured tracking uri scheme: 'file' is invalid for use with the proxy mlflow-artifact scheme. The allowed tracking schemes are: {'https', 'http'}]
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    model_evalution.main()
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\pipeline\stage_04_model_evaluation.py", line 20, in main
+    evaluation.log_into_mlflow()
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\components\model_evaluation_mlflow.py", line 74, in log_into_mlflow
+    mlflow.keras.log_model(self.model, "model")
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\tensorflow\__init__.py", line 213, in log_model
+    return Model.log(
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\models\model.py", line 617, in log
+    mlflow.tracking.fluent.log_artifacts(local_path, mlflow_model.artifact_path, run_id)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\tracking\fluent.py", line 1095, in log_artifacts
+    MlflowClient().log_artifacts(run_id, local_dir, artifact_path)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\tracking\client.py", line 1237, in log_artifacts
+    self._tracking_client.log_artifacts(run_id, local_dir, artifact_path)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 570, in log_artifacts
+    self._get_artifact_repo(run_id).log_artifacts(local_dir, artifact_path)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 536, in _get_artifact_repo
+    artifact_repo = get_artifact_repository(artifact_uri)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\store\artifact\artifact_repository_registry.py", line 124, in get_artifact_repository
+    return _artifact_repository_registry.get_artifact_repository(artifact_uri)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\store\artifact\artifact_repository_registry.py", line 77, in get_artifact_repository
+    return repository(artifact_uri)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\store\artifact\mlflow_artifacts_repo.py", line 45, in __init__
+    super().__init__(self.resolve_uri(artifact_uri, get_tracking_uri()))
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\store\artifact\mlflow_artifacts_repo.py", line 59, in resolve_uri
+    _validate_uri_scheme(track_parse.scheme)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\store\artifact\mlflow_artifacts_repo.py", line 35, in _validate_uri_scheme
+    raise MlflowException(
+mlflow.exceptions.MlflowException: The configured tracking uri scheme: 'file' is invalid for use with the proxy mlflow-artifact scheme. The allowed tracking schemes are: {'https', 'http'}
+[2024-05-08 19:14:45,668: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-08 19:14:45,671: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-08 19:14:45,674: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-08 19:14:45,674: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 19:14:45,675: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 19:14:45,676: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-08 19:15:07,229: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-08 19:15:07,735: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-08 19:15:07,735: INFO: main: *******************]
+[2024-05-08 19:15:07,735: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-05-08 19:15:07,738: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-08 19:15:07,740: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-08 19:15:07,741: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 19:15:07,741: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 19:15:08,270: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-05-08 19:15:08,610: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-05-08 19:15:08,611: INFO: main: *******************]
+[2024-05-08 19:15:08,611: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-05-08 19:15:08,614: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-08 19:15:08,616: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-08 19:15:08,617: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 19:15:08,618: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 19:15:42,341: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-05-08 19:15:42,342: INFO: main: *******************]
+[2024-05-08 19:15:42,342: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-05-08 19:15:42,345: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-08 19:15:42,348: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-08 19:15:42,348: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-08 19:15:53,396: INFO: common: json file saved at: scores.json]
+[2024-05-08 19:15:53,396: INFO: common: json file saved at: scores.json]
+[2024-05-08 19:15:57,273: INFO: builder_impl: Assets written to: C:\Users\audre\AppData\Local\Temp\tmpwml6pwgj\model\data\model\assets]
+[2024-05-08 19:16:05,056: ERROR: main: The configured tracking uri scheme: 'file' is invalid for use with the proxy mlflow-artifact scheme. The allowed tracking schemes are: {'https', 'http'}]
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    model_evalution.main()
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\pipeline\stage_04_model_evaluation.py", line 20, in main
+    evaluation.log_into_mlflow()
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\components\model_evaluation_mlflow.py", line 74, in log_into_mlflow
+    mlflow.keras.log_model(self.model, "model")
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\tensorflow\__init__.py", line 213, in log_model
+    return Model.log(
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\models\model.py", line 617, in log
+    mlflow.tracking.fluent.log_artifacts(local_path, mlflow_model.artifact_path, run_id)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\tracking\fluent.py", line 1095, in log_artifacts
+    MlflowClient().log_artifacts(run_id, local_dir, artifact_path)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\tracking\client.py", line 1237, in log_artifacts
+    self._tracking_client.log_artifacts(run_id, local_dir, artifact_path)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 570, in log_artifacts
+    self._get_artifact_repo(run_id).log_artifacts(local_dir, artifact_path)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 536, in _get_artifact_repo
+    artifact_repo = get_artifact_repository(artifact_uri)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\store\artifact\artifact_repository_registry.py", line 124, in get_artifact_repository
+    return _artifact_repository_registry.get_artifact_repository(artifact_uri)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\store\artifact\artifact_repository_registry.py", line 77, in get_artifact_repository
+    return repository(artifact_uri)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\store\artifact\mlflow_artifacts_repo.py", line 45, in __init__
+    super().__init__(self.resolve_uri(artifact_uri, get_tracking_uri()))
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\store\artifact\mlflow_artifacts_repo.py", line 59, in resolve_uri
+    _validate_uri_scheme(track_parse.scheme)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\store\artifact\mlflow_artifacts_repo.py", line 35, in _validate_uri_scheme
+    raise MlflowException(
+mlflow.exceptions.MlflowException: The configured tracking uri scheme: 'file' is invalid for use with the proxy mlflow-artifact scheme. The allowed tracking schemes are: {'https', 'http'}
+[2024-05-09 08:21:43,025: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-09 08:21:43,033: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 08:21:43,041: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 08:21:43,041: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 08:21:43,041: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 08:21:43,049: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-09 08:21:56,535: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-09 08:21:57,666: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-09 08:21:57,666: INFO: main: *******************]
+[2024-05-09 08:21:57,666: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-05-09 08:21:57,674: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 08:21:57,682: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 08:21:57,682: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 08:21:57,682: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 08:21:58,887: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-05-09 08:21:59,382: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-05-09 08:21:59,382: INFO: main: *******************]
+[2024-05-09 08:21:59,382: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-05-09 08:21:59,390: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 08:21:59,390: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 08:21:59,398: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 08:21:59,398: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 08:23:05,476: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-05-09 08:23:05,476: INFO: main: *******************]
+[2024-05-09 08:23:05,476: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-05-09 08:23:05,484: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 08:23:05,492: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 08:23:05,492: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 08:23:25,952: INFO: common: json file saved at: scores.json]
+[2024-05-09 08:23:25,952: INFO: common: json file saved at: scores.json]
+[2024-05-09 08:23:28,707: ERROR: main: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: '']
+Traceback (most recent call last):
+  File "main.py", line 50, in <module>
+    model_evalution.main()
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\pipeline\stage_04_model_evaluation.py", line 20, in main
+    evaluation.log_into_mlflow()
+  File "d:\projetsperso\deep_learning_mlflow\kidney-diseases-classification-mlflow-dvc\src\cnnClassifier\components\model_evaluation_mlflow.py", line 60, in log_into_mlflow
+    with mlflow.start_run():
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\tracking\fluent.py", line 381, in start_run
+    active_run_obj = client.create_run(
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\tracking\client.py", line 353, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 139, in create_run
+    return self.store.create_run(
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\store\tracking\rest_store.py", line 187, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\store\tracking\rest_store.py", line 60, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\utils\rest_utils.py", line 220, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+  File "D:\App\Anaconda\envs\MLFLOW\lib\site-packages\mlflow\utils\rest_utils.py", line 158, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: ''
+[2024-05-09 08:25:58,231: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-09 08:25:58,239: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 08:25:58,247: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 08:25:58,255: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 08:25:58,255: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 08:25:58,263: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-09 08:26:28,781: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-09 08:26:29,932: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-09 08:26:29,932: INFO: main: *******************]
+[2024-05-09 08:26:29,932: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-05-09 08:26:29,940: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 08:26:29,948: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 08:26:29,948: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 08:26:29,948: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 08:26:31,003: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-05-09 08:26:31,546: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-05-09 08:26:31,546: INFO: main: *******************]
+[2024-05-09 08:26:31,546: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-05-09 08:26:31,554: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 08:26:31,554: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 08:26:31,562: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 08:26:31,562: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 08:27:34,618: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-05-09 08:27:34,618: INFO: main: *******************]
+[2024-05-09 08:27:34,618: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-05-09 08:27:34,626: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 08:27:34,626: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 08:27:34,626: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 08:27:54,287: INFO: common: json file saved at: scores.json]
+[2024-05-09 08:27:54,287: INFO: common: json file saved at: scores.json]
+[2024-05-09 08:28:00,018: INFO: builder_impl: Assets written to: C:\Users\audre\AppData\Local\Temp\tmpdvvznbur\model\data\model\assets]
+[2024-05-09 08:28:20,499: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-05-09 16:45:43,268: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-09 16:45:43,278: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 16:45:43,284: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 16:45:43,286: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:45:43,286: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:45:43,287: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-09 16:46:07,146: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-09 16:46:07,642: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-09 16:46:07,643: INFO: main: *******************]
+[2024-05-09 16:46:07,643: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-05-09 16:46:07,646: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 16:46:07,649: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 16:46:07,650: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:46:07,651: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:46:08,328: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-05-09 16:46:08,667: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-05-09 16:46:08,668: INFO: main: *******************]
+[2024-05-09 16:46:08,668: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-05-09 16:46:08,671: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 16:46:08,673: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 16:46:08,674: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:46:08,675: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:46:51,445: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-05-09 16:46:51,446: INFO: main: *******************]
+[2024-05-09 16:46:51,446: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-05-09 16:46:51,450: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 16:46:51,455: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 16:46:51,456: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:47:04,797: INFO: common: json file saved at: scores.json]
+[2024-05-09 16:47:04,798: INFO: common: json file saved at: scores.json]
+[2024-05-09 16:47:08,140: INFO: builder_impl: Assets written to: C:\Users\audre\AppData\Local\Temp\tmpgrmtf5rv\model\data\model\assets]
+[2024-05-09 16:47:22,343: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-05-09 16:48:47,304: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-09 16:48:47,307: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 16:48:47,316: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 16:48:47,317: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:48:47,317: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:48:47,318: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-09 16:49:03,395: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-09 16:49:03,943: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-09 16:49:03,944: INFO: main: *******************]
+[2024-05-09 16:49:03,944: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-05-09 16:49:03,947: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 16:49:03,950: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 16:49:03,951: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:49:03,951: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:49:04,614: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-05-09 16:49:04,910: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-05-09 16:49:04,911: INFO: main: *******************]
+[2024-05-09 16:49:04,912: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-05-09 16:49:04,915: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 16:49:04,917: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 16:49:04,918: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:49:04,919: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:50:30,494: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-05-09 16:50:30,495: INFO: main: *******************]
+[2024-05-09 16:50:30,495: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-05-09 16:50:30,501: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 16:50:30,508: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 16:50:30,510: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:50:44,335: INFO: common: json file saved at: scores.json]
+[2024-05-09 16:50:44,335: INFO: common: json file saved at: scores.json]
+[2024-05-09 16:50:47,540: INFO: builder_impl: Assets written to: C:\Users\audre\AppData\Local\Temp\tmp01s_221t\model\data\model\assets]
+[2024-05-09 16:50:56,843: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-05-09 16:52:32,601: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-09 16:52:32,605: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 16:52:32,608: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 16:52:32,609: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:52:32,610: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:52:32,611: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-09 16:52:45,766: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-09 16:52:46,285: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-09 16:52:46,286: INFO: main: *******************]
+[2024-05-09 16:52:46,286: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-05-09 16:52:46,289: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 16:52:46,293: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 16:52:46,294: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:52:46,294: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:52:46,836: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-05-09 16:52:47,116: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-05-09 16:52:47,117: INFO: main: *******************]
+[2024-05-09 16:52:47,117: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-05-09 16:52:47,120: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 16:52:47,123: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 16:52:47,124: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:52:47,124: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:54:06,311: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-05-09 16:54:06,312: INFO: main: *******************]
+[2024-05-09 16:54:06,312: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-05-09 16:54:06,316: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 16:54:06,318: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 16:54:06,319: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:54:18,637: INFO: common: json file saved at: scores.json]
+[2024-05-09 16:54:18,638: INFO: common: json file saved at: scores.json]
+[2024-05-09 16:54:21,861: INFO: builder_impl: Assets written to: C:\Users\audre\AppData\Local\Temp\tmpcpr0os58\model\data\model\assets]
+[2024-05-09 16:54:30,075: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-05-09 16:55:04,348: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-09 16:55:04,351: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 16:55:04,355: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 16:55:04,357: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:55:04,358: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:55:04,359: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-09 16:55:27,752: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-09 16:55:28,235: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-09 16:55:28,236: INFO: main: *******************]
+[2024-05-09 16:55:28,237: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-05-09 16:55:28,239: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 16:55:28,241: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 16:55:28,242: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:55:28,242: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:55:28,797: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-05-09 16:55:29,095: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-05-09 16:55:29,096: INFO: main: *******************]
+[2024-05-09 16:55:29,096: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-05-09 16:55:29,099: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 16:55:29,101: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 16:55:29,102: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:55:29,103: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:57:28,034: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-05-09 16:57:28,035: INFO: main: *******************]
+[2024-05-09 16:57:28,035: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-05-09 16:57:28,039: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 16:57:28,041: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 16:57:28,042: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 16:57:41,407: INFO: common: json file saved at: scores.json]
+[2024-05-09 16:57:41,408: INFO: common: json file saved at: scores.json]
+[2024-05-09 16:57:44,318: INFO: builder_impl: Assets written to: C:\Users\audre\AppData\Local\Temp\tmp64b48t3_\model\data\model\assets]
+[2024-05-09 16:57:53,051: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]

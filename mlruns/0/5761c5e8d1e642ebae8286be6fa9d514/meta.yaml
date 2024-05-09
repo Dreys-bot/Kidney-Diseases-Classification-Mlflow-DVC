@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5761c5e8d1e642ebae8286be6fa9d514/artifacts
+end_time: 1715266256832
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5761c5e8d1e642ebae8286be6fa9d514
+run_name: resilient-bug-121
+run_uuid: 5761c5e8d1e642ebae8286be6fa9d514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715266245145
+status: 3
+tags: []
+user_id: audre

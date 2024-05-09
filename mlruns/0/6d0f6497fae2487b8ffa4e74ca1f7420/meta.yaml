@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/6d0f6497fae2487b8ffa4e74ca1f7420/artifacts
+deleted_time: 1715266082354
+end_time: 1715187785043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6d0f6497fae2487b8ffa4e74ca1f7420
+run_name: intelligent-mule-212
+run_uuid: 6d0f6497fae2487b8ffa4e74ca1f7420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715187774021
+status: 4
+tags: []
+user_id: audre
