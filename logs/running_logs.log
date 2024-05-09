@@ -1038,3 +1038,36 @@ UnboundLocalError: local variable 'prediction' referenced before assignment
 [2024-05-09 18:36:18,621: INFO: _internal: 127.0.0.1 - - [09/May/2024 18:36:18] "GET / HTTP/1.1" 200 -]
 [2024-05-09 18:36:26,598: INFO: _internal: 127.0.0.1 - - [09/May/2024 18:36:26] "POST /predict HTTP/1.1" 200 -]
 [2024-05-09 18:36:39,883: INFO: _internal: 127.0.0.1 - - [09/May/2024 18:36:39] "POST /predict HTTP/1.1" 200 -]
+[2024-05-09 18:42:00,824: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.194:8080]
+[2024-05-09 18:42:00,824: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-05-09 18:42:05,861: INFO: _internal: 127.0.0.1 - - [09/May/2024 18:42:05] "GET / HTTP/1.1" 200 -]
+[2024-05-09 18:42:18,119: INFO: _internal: 127.0.0.1 - - [09/May/2024 18:42:18] "POST /predict HTTP/1.1" 200 -]
+[2024-05-09 20:10:45,386: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-09 20:10:45,402: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 20:10:45,410: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 20:10:45,410: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 20:10:45,418: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 20:10:45,418: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-09 20:11:02,515: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-09 20:11:03,617: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-09 20:11:03,617: INFO: main: *******************]
+[2024-05-09 20:11:03,617: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-05-09 20:11:03,625: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 20:11:03,633: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 20:11:03,633: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 20:11:03,633: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 20:11:04,768: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-05-09 20:11:05,399: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-05-09 20:11:05,399: INFO: main: *******************]
+[2024-05-09 20:11:05,399: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-05-09 20:11:05,407: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 20:11:05,407: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 20:11:05,415: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 20:11:05,415: INFO: common: Created directory at: <class 'pathlib.Path'>]
