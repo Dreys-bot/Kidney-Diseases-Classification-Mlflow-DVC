@@ -923,3 +923,42 @@ x==========x]
 [2024-05-09 16:57:53,051: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
 
 x==========x]
+[2024-05-09 17:41:54,177: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-05-09 17:41:54,180: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 17:41:54,182: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 17:41:54,183: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 17:41:54,184: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 17:41:54,185: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-09 17:42:08,679: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-05-09 17:42:09,353: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-05-09 17:42:25,547: INFO: stage_02_prepare_base_model: *******************]
+[2024-05-09 17:42:25,548: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model started <<<<<<]
+[2024-05-09 17:42:25,551: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 17:42:25,554: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 17:42:25,555: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 17:42:25,556: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 17:42:26,214: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-05-09 17:42:26,460: INFO: stage_02_prepare_base_model: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-05-09 17:42:32,248: INFO: stage_03_model_training: *******************]
+[2024-05-09 17:42:32,248: INFO: stage_03_model_training: >>>>>> stage Training started <<<<<<]
+[2024-05-09 17:42:32,251: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 17:42:32,253: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 17:42:32,254: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 17:42:32,255: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 17:44:19,734: INFO: stage_03_model_training: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-05-09 17:44:26,519: INFO: stage_04_model_evaluation: *******************]
+[2024-05-09 17:44:26,520: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-05-09 17:44:26,523: INFO: common: yaml file: config\config.yaml loaded successfuly]
+[2024-05-09 17:44:26,526: INFO: common: yaml file: params.yaml loaded successfuly]
+[2024-05-09 17:44:26,528: INFO: common: Created directory at: <class 'pathlib.Path'>]
+[2024-05-09 17:44:38,511: INFO: common: json file saved at: scores.json]
+[2024-05-09 17:44:38,512: INFO: common: json file saved at: scores.json]
+[2024-05-09 17:44:38,513: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]

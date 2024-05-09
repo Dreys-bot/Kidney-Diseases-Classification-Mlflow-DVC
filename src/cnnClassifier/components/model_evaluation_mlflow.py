@@ -54,7 +54,7 @@ class Evaluation:
 
     
     def log_into_mlflow(self):
-        mlflow.set_tracking_uri(self.config.mlflow_uri)
+        mlflow.set_tracking_uri(self.config.mlflow_uri) #Don't use set_tracking_uri
         tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme
         
         with mlflow.start_run():
